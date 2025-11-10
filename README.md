@@ -24,7 +24,7 @@
 `Kafka` • `ClickHouse` • `PostgreSQL` • `Redis` • `RabbitMQ`
 
 **Инфраструктура:**
-`Docker` • `Kubernetes` • `Helm` • `Grafana` • `Prometheus`
+`Docker` • `Kubernetes` • `Helm` • `Grafana` • `Prometheus`• `Vault`
 
 **Автоматизация:**
 `GitLab` • `ArgoCD`
