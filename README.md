@@ -18,7 +18,7 @@
 ### ⚙️ Чем я пользуюсь
 
 **Backend:**
-`C#` • `.NET` • `ASP.NET Core` • `gRPC` • `MassTransit`
+`C#` • `.NET` • `ASP.NET Core` • `gRPC` 
 
 **Data & Streaming:**
 `Kafka` • `ClickHouse` • `PostgreSQL` • `Redis` • `RabbitMQ`
